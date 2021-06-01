@@ -5,4 +5,4 @@
 
 ***
 .ipynbファイルが開かれない時は、こちらのリンクにURLを貼ってご覧になってください。  
-[https://nbviewer.jupyter.org/](URL "nbviewer")
+[nbviewer](https://nbviewer.jupyter.org/)
